@@ -24,5 +24,9 @@
     "typescript": "5.0.4",
     "zod": "^3.21.4",
     "zod-error": "^1.5.0"
+  },
+  "devDependencies": {
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.12.0"
   }
 }
